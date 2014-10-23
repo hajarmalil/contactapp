@@ -1,0 +1,18 @@
+#headT {
+	background-color: #FF7F50;
+	color: white;
+}
+#col {
+	background-color: white;
+}
+#table {
+	box-shadow: 8px 8px 12px #aaa;
+}
+#t1, #t3, #t2, #t5, #t7, #t4, #t6, #t7, #t8, #t10, #t9 {
+	border-style: inherit;
+}
+#headT1, #headT2, #headT3, #headT4, #headT5 {
+	background-color: #FF7F50;
+	color: white;
+	border-style: inherit
+}

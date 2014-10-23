@@ -1,0 +1,15 @@
+#footer { 
+	position: absolute; bottom: 0;
+	right: 12px; left: 12px;
+}
+#footerT { 
+	position: absolute; right: 0; bottom: 0; 
+}
+#body {
+    position: absolute;
+    left: 12px;
+    right: 12px;
+}
+#btnS {
+	position: absolute; right: 20px; top: 20px;
+}
